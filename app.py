@@ -80,7 +80,7 @@ def logs():
     <head>
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title>Logs do Telegram</title>
+      <title>Logs do Telegram @matheuspivani_bot</title>
       <meta http-equiv="refresh" content="10"> <!-- auto-refresh a cada 10s -->
       <style>
         body {{ font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial; background:#0b0c10; color:#e8edf2; margin:0; }}
@@ -98,7 +98,7 @@ def logs():
     <body>
       <div class="wrap">
         <div class="topbar">
-          <h1>Logs do Telegram</h1>
+          <h1>Logs do Telegram @matheuspivani_bot</h1>
           <span class="pill">últimas {len(items)} mensagens</span>
           <a class="pill" href="/telegram">/telegram</a>
           <a class="pill" href="/">/</a>
